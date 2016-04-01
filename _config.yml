@@ -1,0 +1,28 @@
+name: UnconditionYou
+favicon: null
+layout_spectrum: 0.9505422450602055
+typography_spectrum: 0.3066218006424606
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.44175346102565527
+  lightness: 0.6915960474871099
+  saturation: 0.47761307447217405
+  rhythmicContrast: 0.32002993766218424
+purpose: []
