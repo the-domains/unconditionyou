@@ -1,7 +1,7 @@
 name: UnconditionYou
 favicon: null
-layout_spectrum: 0.25096
-typography_spectrum: 0.3066218006424606
+layout_spectrum: 1
+typography_spectrum: 0.25244
 title: 'Spiritual & Emotional Counselling – Detoxification & Health Consultations'
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#fcc300'
-    - '#8d3d1b'
-    - '#9d0000'
-    - '#c9a4a4'
+    - '#000000'
+    - '#3a3a32'
+    - '#cbb39b'
+    - '#a87843'
+    - '#81542c'
   brandStrength: 0.5
   lightness: 0.6915960474871099
   saturation: 0.47761307447217405
