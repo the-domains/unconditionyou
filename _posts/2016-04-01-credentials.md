@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-01T22:47:45.376Z'
-dateModified: '2016-04-01T22:47:45.046Z'
+datePublished: '2016-04-02T14:13:18.852Z'
+dateModified: '2016-04-02T14:12:52.043Z'
 title: Credentials
+author: []
+sourcePath: _posts/2016-04-01-credentials.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
-sourcePath: _posts/2016-04-01-credentials.md
-published: true
 url: credentials/index.html
-_type: Article
+_type: WebPage
 
 ---
 * BSc. (Hons) Psychology (Open University)
