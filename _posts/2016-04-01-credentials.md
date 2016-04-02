@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-02T14:13:18.852Z'
-dateModified: '2016-04-02T14:12:52.043Z'
+datePublished: '2016-04-02T14:35:07.704Z'
+dateModified: '2016-04-02T14:13:28.376Z'
 title: Credentials
 author: []
 sourcePath: _posts/2016-04-01-credentials.md
