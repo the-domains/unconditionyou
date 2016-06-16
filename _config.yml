@@ -19,6 +19,8 @@ analytics:
   google: null
   facebook: null
   twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3c66812-9099-4ca8-9853-71f6891f4371.png
 name: UnconditionYou
 cta:
   domain: null
