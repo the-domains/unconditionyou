@@ -29,11 +29,7 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - id: a4b4b907-ae7b-44c3-b531-a1033869ce3c
-    url: 2016-04-01-fees.html
-    name: Fees
-    type: content
+navigation: []
 favicon: null
 title: SPIRITUAL & EMOTIONAL COUNSELLING – DETOXIFICATION & HEALTH CONSULTATIONS
 purpose: []
