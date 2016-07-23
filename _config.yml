@@ -34,6 +34,10 @@ navigation:
     url: 2016-04-02-about-me.html
     name: About Me
     type: content
+  - id: 09e0b7e5-eead-4090-a785-2d2ac8fe0555
+    url: 2016-04-01-credentials.html
+    name: Credentials
+    type: content
 favicon: null
 title: SPIRITUAL & EMOTIONAL COUNSELLING – DETOXIFICATION & HEALTH CONSULTATIONS
 purpose: []
