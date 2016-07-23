@@ -30,10 +30,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - id: 09e0b7e5-eead-4090-a785-2d2ac8fe0555
-    url: 2016-04-01-credentials.html
-    name: Credentials
-    type: content
   - id: a4b4b907-ae7b-44c3-b531-a1033869ce3c
     url: 2016-04-01-fees.html
     name: Fees
