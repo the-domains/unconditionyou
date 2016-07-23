@@ -3,21 +3,17 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-02T14:35:07.704Z'
-dateModified: '2016-04-02T14:13:28.376Z'
-title: Credentials
+datePublished: '2016-07-23T20:59:43.437Z'
+dateModified: '2016-07-23T20:59:42.926Z'
+title: ''
 author: []
 sourcePath: _posts/2016-04-01-credentials.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
+via: {}
+starred: false
 url: credentials/index.html
 _type: WebPage
 
